@@ -8,7 +8,7 @@ void main() {
   runApp(MyApp());
 }
 
-//samsol kontol
+//catalog shoes
 
 class MyApp extends StatelessWidget {
   @override
