@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14417133487",
+    "project_id": "catalogs-shoes",
+    "storage_bucket": "catalogs-shoes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14417133487:android:0338595b964dc76d2e795a",
+        "android_client_info": {
+          "package_name": "com.example.catalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14417133487-2g39qquemthmerjjmaklfveijmchp1rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlETB3L1JP3hjso8FMRTIoI981SDAtm54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14417133487-2g39qquemthmerjjmaklfveijmchp1rs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
